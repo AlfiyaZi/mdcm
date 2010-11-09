@@ -49,7 +49,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dicom.Codec.JpegLs.x64", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicom.Scu", "Dicom.Scu\Dicom.Scu.csproj", "{D08C440B-4FE7-407F-8024-2CAB3F009DBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterStatusSCU", "..\PrinterStatus\PrinterStatusSCU\PrinterStatusSCU.csproj", "{3D953CE1-0D29-4C98-9498-819F80075FC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicom.Tests", "Dicom.Tests\Dicom.Tests.csproj", "{6299E676-919F-45A5-BDDB-7F25C05BE31E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,16 +221,14 @@ Global
 		{D08C440B-4FE7-407F-8024-2CAB3F009DBE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{D08C440B-4FE7-407F-8024-2CAB3F009DBE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D08C440B-4FE7-407F-8024-2CAB3F009DBE}.Release|x86.ActiveCfg = Release|Any CPU
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Debug|x86.ActiveCfg = Debug|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Debug|x86.Build.0 = Debug|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Release|Any CPU.ActiveCfg = Release|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Release|Mixed Platforms.Build.0 = Release|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Release|x86.ActiveCfg = Release|x86
-		{3D953CE1-0D29-4C98-9498-819F80075FC7}.Release|x86.Build.0 = Release|x86
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6299E676-919F-45A5-BDDB-7F25C05BE31E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
