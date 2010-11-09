@@ -106,6 +106,8 @@
     <Compile Include="Imaging\WindowLevel.cs" />
     <Compile Include="IO\SegmentStream.cs" />
     <Compile Include="Network\Client\CStoreClient.cs" />
+    <Compile Include="Network\Client\NPrint\PrinterStatusClient.cs" />
+    <Compile Include="Network\Client\NPrint\PrinterStatusIOD.cs" />
     <Compile Include="Network\DcmCommand.cs" />
     <Compile Include="Data\DicomDataException.cs" />
     <Compile Include="Data\DcmDataset.cs" />
